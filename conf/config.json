@@ -1,0 +1,33 @@
+{  
+	"game":{  
+		"WINDOW_WIDTH":"800",
+		"WINDOW_HEIGHT":"600",
+		"caption":"slither",
+		"font_name":"couriernew",
+		"FPS":15, 
+		"credit_card":"img/credit_card.jpg",
+		"menu_background":"img/menu_background.png",
+		"start_background":"img/start_background.jpg",
+		"rule_1":"Don't run the snake into the wall, or his own tail: you die.",
+		"rule_2":"Use your cursor keys: up, left, right, and down.",
+		"rule_3":"Keyboard 'P' may be used for pause.",
+		"rule_4":"Eat the colored apples to gain points.",
+		"rule_5":"When you pick a skin set make sure you type the set number"
+	},
+	"set_1":{
+		"full_set_1":"img/set_1/full_set_1.png",
+		"head_img":"img/set_1/snake_head.png",
+		"body_img":"img/set_1/snake_body.png",
+		"apple_img":"img/set_1/apple.png",
+		"tail_img":"img/set_1/snake_tail.png",
+		"game_background":"img/set_1/BrickBackground.jpg"
+	},
+	"set_2":{
+		"full_set_2":"img/set_2/full_set_2.png",
+		"head_img":"img/set_2/emoji_head.png",
+		"body_img":"img/set_2/emoji_body.png",
+		"apple_img":"img/set_2/Poop_Emoji.png",
+		"tail_img":"img/set_2/emoji_tail.png",
+		"game_background":"img/set_2/whatsapp_2.png"
+	}
+}
